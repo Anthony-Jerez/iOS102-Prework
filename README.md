@@ -6,7 +6,8 @@ Introduce Yourself is a fully functional app that allows users to provide entici
 
 ### App Walk-though
 
-<img src="YOUR_GIF_PATH" width=200><br> --> 
+<img src="https://github.com/Anthony-Jerez/iOS102-Prework/assets/87133474/6549752c-a197-46d2-8651-617ba284218c" width=200><br> --> 
+
 
 ### Required Features
 
